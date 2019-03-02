@@ -1,0 +1,20 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+mouse       ctcataaggtaccaccacgctgtggcgaaaagtctgcctgtcttccagatactcgggata	60
+rat         ctcatacggtaccaccacgctgtgccgaaaagtctgcctgtcgtccagatactcagcata	60
+cat         ctcgtagggcaccacgacgctatgtcgga---tgtttctgtcgtccaggtacttggcatg	57
+dog         ctcataaggcaccaccacactgtgtcgaa---tgtttctgtcgtccaggtacttggcccg	57
+cow         ctcatagggcaccaccacactgtgtctaaaggtgttccggtcgtccaaatactccgcgcg	60
+human       ctcatagggcaccaccacactatgtcgaaaagtgtttctgtcatccaaatactccacacg	60
+baboon      ctcatagggcaccaccacactatgtcgaaaagtgtttctgtcatccgaatactccacacg	60
+            *** ** ** ***** ** ** ** *  *   * *  * *** ***   ****       
+
+mouse       caaatttcct	    70
+rat         cggatttcct	    70
+cat         caagtttcct	    67
+dog         caaatttcct	    67
+cow         taaattccct	    70
+human       caaatttcct	    70
+baboon      caaatttcct	    70
+                ** ***
